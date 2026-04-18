@@ -1,0 +1,58 @@
+/* SECTION */
+.campus-section {
+  padding: 80px 5%;
+  background: #f5f5f5;
+}
+
+/* HEADER */
+.campus-tag {
+  color: #f4b400;
+  letter-spacing: 3px;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.campus-title {
+  font-size: 42px;
+  color: #1b2a41;
+  margin-bottom: 10px;
+}
+
+.campus-desc {
+  color: #666;
+  max-width: 650px;
+  margin-bottom: 30px;
+  font-size: 15px;
+}
+
+/* TABS */
+.campus-tabs {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+/* BUTTON */
+.tab {
+  padding: 10px 18px;
+  border: 1.5px solid #f4b400;
+  background: #fff;
+  color: #1b2a41;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* ACTIVE */
+.tab.active {
+  background: #f4b400;
+  color: #000;
+  border-color: #f4b400;
+}
+
+/* HOVER */
+.tab:hover {
+  background: #f4b400;
+  color: #000;
+}
+
