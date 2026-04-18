@@ -14,7 +14,7 @@
         <img src="images/kg.jpg" alt="">
       </div>
 
-      <div class="acad-text">
+      <div class="acad-text ">
         <p class="small-tag"> <b>EMPATHIZE ME</b></p>
 
         <h3>KG – Grade 2 <span>(Foundational Stage)</span></h3>
@@ -37,7 +37,7 @@
     </div>
 
     <!-- ROW 2 -->
-    <div class="acad-row reverse">
+    <div class="acad-row">
       <div class="acad-img">
         <img src="images/grade3.jpg" alt="">
       </div>
@@ -99,7 +99,7 @@
     </div>
 
     <!-- ROW 4 -->
-    <div class="acad-row reverse">
+    <div class="acad-row ">
       <div class="acad-img">
         <img src="images/grade9.jpg" alt="">
       </div>

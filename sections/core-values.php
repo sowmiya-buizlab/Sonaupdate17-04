@@ -79,7 +79,7 @@
     </div>
 
   </div>
-  <div class="icon-box">
+  <!-- <div class="icon-box">
   <i class="fa-solid fa-graduation-cap"></i>
-</div>
+</div> -->
 </section>
